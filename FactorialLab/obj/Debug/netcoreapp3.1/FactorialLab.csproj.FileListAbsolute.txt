@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\bin\Debug\netcoreapp3.1\FactorialLab.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\FactorialLab\FactorialLab\obj\Debug\netcoreapp3.1\FactorialLab.pdb
